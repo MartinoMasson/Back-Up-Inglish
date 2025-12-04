@@ -1,0 +1,9 @@
+{
+  "name": "backup",
+  "description": "Landing page for a private English institute. Static content built with pure HTML, CSS, and JS. Includes texts and images provided by the client, and a contact form that sends an email to the institute.",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "build": "echo 'no build script'"
+  }
+}
