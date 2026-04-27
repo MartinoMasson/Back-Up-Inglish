@@ -357,7 +357,7 @@ body {
 }
 
 .profesor-info {
-  padding: var(--spacing-lg);
+  padding: var(--spacing-sm);
 }
 
 .profesor-name {
